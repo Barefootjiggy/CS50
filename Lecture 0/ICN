@@ -1,0 +1,46 @@
+Unary known as base 1 (1,2,3,4,5) 5 fingers
+
+Binary known as base-2 fingers count up to 31 for different variations of fingers up vs down
+
+bit is 0 or 1
+0 lightbulb off
+1 lightbulb on
+
+computer full of transistors of 0's and 1's  
+
+byte is 8 bits 
+
+Computer Science = Input -> algorithim -> output
+
+ASCII 
+A = 65
+128 64 32 16 8 4 2 1
+Message Sent 01001000 01001001 00100001
+Message Received is? 72 73 33 H I !
+01001101 01001001 01000001 
+
+given looking for last possible phone number
+ n 1000 phonebook page turns
+ n2 500 phonebook page turns
+ log2n 10 phonebook page turns
+ log2n broken down in pseudocode
+
+ 1 PICK UP phone book
+ 2 OPEN TO middle of phone book
+ 3 LOOK AT page
+ 4 If pErson iS oN pAge
+ 5  CALL person
+ 6 Else If pErson iS eArlier iN bOok
+ 7  OPEN TO to middle of left half of book
+ 8  Go bacK to line 3
+ 9 Else If pErson iS eArlier iN bOok
+ 10  OPEN TO middle of right half of book
+ 11  Go bacK to line 3
+ 12 Else
+ 13  QUIT
+
+ uppercased words are functions, actions or verbs
+ captialized words are conditionals 
+ words with second letter capitalized are booleans which are yes or no, true or false
+ indentations signify action should be done only if condition is met (conditional)
+ loops have last first word capitalized in whole phrase 
